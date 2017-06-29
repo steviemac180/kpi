@@ -1,14 +1,19 @@
 {
     "collab_server" : "",
-    "contents" : "",
+    "contents" : "### monthly data import\n\n### cumulative data import",
     "created" : 1498746795020.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2731355381",
     "id" : "6419BB1",
+<<<<<<< HEAD
     "lastKnownWriteTime" : 1498748895,
     "last_content_update" : 1498748895,
+=======
+    "lastKnownWriteTime" : 1498748841,
+    "last_content_update" : 1498748841,
+>>>>>>> setup
     "path" : "~/Desktop/KPI/data_import.R",
     "project_path" : "data_import.R",
     "properties" : {

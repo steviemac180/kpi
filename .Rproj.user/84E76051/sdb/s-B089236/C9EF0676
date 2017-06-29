@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# workload analysis",
+    "created" : 1498752997460.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4229423434",
+    "id" : "C9EF0676",
+    "lastKnownWriteTime" : 1498753091,
+    "last_content_update" : 1498753091274,
+    "path" : "~/Desktop/KPI/workload.R",
+    "project_path" : "workload.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

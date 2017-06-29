@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# abnormal results for haemostasis",
+    "created" : 1498753014960.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2546477163",
+    "id" : "C7389003",
+    "lastKnownWriteTime" : 1498753112,
+    "last_content_update" : 1498753112596,
+    "path" : "~/Desktop/KPI/abnormal.R",
+    "project_path" : "abnormal.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

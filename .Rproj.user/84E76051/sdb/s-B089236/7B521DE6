@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# critical call compliance",
+    "created" : 1498753005638.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "58191747",
+    "id" : "7B521DE6",
+    "lastKnownWriteTime" : 1498753102,
+    "last_content_update" : 1498753102269,
+    "path" : "~/Desktop/KPI/critical.R",
+    "project_path" : "critical.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

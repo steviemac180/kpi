@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# tat analysis",
+    "created" : 1498753078659.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2106860378",
+    "id" : "28A2DF64",
+    "lastKnownWriteTime" : 1498753147,
+    "last_content_update" : 1498753147154,
+    "path" : "~/Desktop/KPI/tat.R",
+    "project_path" : "tat.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

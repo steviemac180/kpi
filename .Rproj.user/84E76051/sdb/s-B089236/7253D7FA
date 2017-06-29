@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#PT, aPTT and GPINR cross analyser patient median comparison for analyser comparability",
+    "created" : 1498753024713.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1419885222",
+    "id" : "7253D7FA",
+    "lastKnownWriteTime" : 1498753137,
+    "last_content_update" : 1498753137355,
+    "path" : "~/Desktop/KPI/inr.R",
+    "project_path" : "inr.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

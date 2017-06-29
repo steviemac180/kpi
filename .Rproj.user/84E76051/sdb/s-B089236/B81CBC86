@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "### monthly data import\n\n\n\n### cumulative data import",
+    "contents" : "### monthly data import\n\nw.workload <- read.csv(file.choose())\nw.TAT <- read.csv(file.choose())\nw.critical <- read.csv(file.choose())\nw.inr <- read.csv(file.choose())\nw.abnormal <- read.csv(file.choose())\n\n### cumulative data import\n\nc.workload <- read.csv(file.choose())\nc.TAT <- read.csv(file.choose())\nc.critical <- read.csv(file.choose())\nc.inr <- read.csv(file.choose())\nc.abnormal <- read.csv(file.choose())\n\n## rbind the latest data to the cumulative data\ndf.workload <- rbind(c.workload, w.workload)\ndf.TAT <- rbind(c.TAT, w.TAT)\ndf.critical <- rbind(c.critical, w.critical)\ndf.inr <- rbind(c.inr, w.inr)\ndf.abnormal <- rbind(c.abnormal, w.abnormal)\n\n\n\n\n\n\n",
     "created" : 1498752541017.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2240573207",
+    "hash" : "4072611043",
     "id" : "B81CBC86",
-    "lastKnownWriteTime" : 1498752566,
-    "last_content_update" : 1498752566994,
+    "lastKnownWriteTime" : 1498752983,
+    "last_content_update" : 1498752983383,
     "path" : "~/Desktop/KPI/data_import.R",
     "project_path" : "data_import.R",
     "properties" : {

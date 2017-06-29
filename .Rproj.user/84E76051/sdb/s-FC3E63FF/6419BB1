@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1498746795020.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6419BB1",
+    "lastKnownWriteTime" : 1498746806,
+    "last_content_update" : 1498746806039,
+    "path" : "~/Desktop/KPI/data_import.R",
+    "project_path" : "data_import.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

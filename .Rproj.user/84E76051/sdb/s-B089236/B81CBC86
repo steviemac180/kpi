@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "### monthly data import\n\n\n\n### cumulative data import",
+    "created" : 1498752541017.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2240573207",
+    "id" : "B81CBC86",
+    "lastKnownWriteTime" : 1498752566,
+    "last_content_update" : 1498752566994,
+    "path" : "~/Desktop/KPI/data_import.R",
+    "project_path" : "data_import.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
